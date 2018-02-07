@@ -18,6 +18,6 @@ public class HelloWorld {
                 " and " +
                 Integer.toString(numB) +
                 " is " +
-                Integer.toString(numA + numB);
+                Integer.toString(numA + numB );
     }
 }
