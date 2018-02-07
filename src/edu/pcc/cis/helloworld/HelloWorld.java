@@ -2,6 +2,9 @@ package edu.pcc.cis.helloworld;
 
 import java.util.Date;
 
+/*
+    CopyWrite Bobby Puckett 2018
+ */
 public class HelloWorld {
 
     public static void main(String[] args) {
