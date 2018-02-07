@@ -16,7 +16,7 @@ public class HelloWorld {
         return "The sum of " +
                 Integer.toString(numA) +
                 " and " +
-                Integer.toString(numB) +
+                Integer.toString(numB ) +
                 " is " +
                 Integer.toString(numA + numB);
     }
