@@ -10,7 +10,6 @@ public class HelloWorld {
         System.out.println(new Date());
 
         System.out.println(addNumbers(3, 4));
-        System.out.println("Extraneous line");
     }
 
     public static String addNumbers(int numA, int numB) {
